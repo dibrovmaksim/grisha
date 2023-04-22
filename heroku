@@ -1,0 +1,1 @@
+heroku heroku $FRONT_APP_NAME --remote $FRONT_APP_NAME
